@@ -1,0 +1,6 @@
+C:\Users\maxvh\source\repos\GoldBadgeChallenges\CompanyOutings_Repository\bin\Debug\CompanyOutings_Repository.dll
+C:\Users\maxvh\source\repos\GoldBadgeChallenges\CompanyOutings_Repository\bin\Debug\CompanyOutings_Repository.pdb
+C:\Users\maxvh\source\repos\GoldBadgeChallenges\CompanyOutings_Repository\obj\Debug\CompanyOutings_Repository.csprojAssemblyReference.cache
+C:\Users\maxvh\source\repos\GoldBadgeChallenges\CompanyOutings_Repository\obj\Debug\CompanyOutings_Repository.csproj.CoreCompileInputs.cache
+C:\Users\maxvh\source\repos\GoldBadgeChallenges\CompanyOutings_Repository\obj\Debug\CompanyOutings_Repository.dll
+C:\Users\maxvh\source\repos\GoldBadgeChallenges\CompanyOutings_Repository\obj\Debug\CompanyOutings_Repository.pdb

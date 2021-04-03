@@ -1,0 +1,10 @@
+C:\Users\maxvh\source\repos\GoldBadgeChallenges\CompanyOuting_Console\bin\Debug\CompanyOuting_Console.exe.config
+C:\Users\maxvh\source\repos\GoldBadgeChallenges\CompanyOuting_Console\bin\Debug\CompanyOuting_Console.exe
+C:\Users\maxvh\source\repos\GoldBadgeChallenges\CompanyOuting_Console\bin\Debug\CompanyOuting_Console.pdb
+C:\Users\maxvh\source\repos\GoldBadgeChallenges\CompanyOuting_Console\bin\Debug\CompanyOutings_Repository.dll
+C:\Users\maxvh\source\repos\GoldBadgeChallenges\CompanyOuting_Console\bin\Debug\CompanyOutings_Repository.pdb
+C:\Users\maxvh\source\repos\GoldBadgeChallenges\CompanyOuting_Console\obj\Debug\CompanyOuting_Console.csprojAssemblyReference.cache
+C:\Users\maxvh\source\repos\GoldBadgeChallenges\CompanyOuting_Console\obj\Debug\CompanyOuting_Console.csproj.CoreCompileInputs.cache
+C:\Users\maxvh\source\repos\GoldBadgeChallenges\CompanyOuting_Console\obj\Debug\CompanyOuting_Console.csproj.CopyComplete
+C:\Users\maxvh\source\repos\GoldBadgeChallenges\CompanyOuting_Console\obj\Debug\CompanyOuting_Console.exe
+C:\Users\maxvh\source\repos\GoldBadgeChallenges\CompanyOuting_Console\obj\Debug\CompanyOuting_Console.pdb
